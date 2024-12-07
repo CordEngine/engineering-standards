@@ -1,0 +1,19 @@
+# Project names
+cordengine
+
+# Contributor names
+fabulousgk
+
+# Tooling (package names, etc.)
+bunx
+lockb
+luxon
+ossf
+pino
+sarif
+valibot
+coderabbitai
+commitlintrc
+
+# Misc prop names from external sources
+Filenaming # biome
