@@ -14,3 +14,5 @@ jobs:
       issues: write
     steps:
       - uses: CordEngine/.github/actions/labeler@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
