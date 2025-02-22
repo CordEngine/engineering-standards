@@ -29,7 +29,7 @@
 		"lint:tsc": "tsc --noEmit --skipLibCheck"
 	},
 	"devDependencies": {
-		"@cspell/cspell-types": "8.17.4",
+		"@cspell/cspell-types": "8.17.5",
 		"@types/bun": "1.2.3",
 		"@types/semver": "7.5.8",
 		"ajv": "8.17.1",
